@@ -8,7 +8,7 @@ The study involved metagenomic sequencing of bat rectal swabs to identify and ch
 1. **Upstream Analysis:** Read filtering, de novo assembly, and RVA contig identification.
 2. **Downstream Analysis:** Genotyping, sequence alignment, phylogenetic inference, and codon usage analysis.
 
-*Note: Raw sequence data and generated figures are not included in this repository. Raw sequencing data and contigs will be made available via public repositories (e.g., SRA/GenBank) upon publication.*
+*Note: Raw sequencing data and contigs are be made available via public repositories.*
 
 ---
 
@@ -73,4 +73,4 @@ To run the phylogenetic pipeline, ensure the following tools are installed:
 ---
 
 ## Citation
-If you use this code or data, please cite the associated manuscript (citation details to be added upon publication).
+If you use this code or data, please cite the associated manuscript.
