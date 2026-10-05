@@ -1,0 +1,64 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Temporary files (Word, Excel)
+~$*.doc*
+~$*.xls*
+
+# IDEs
+.idea/
+.vscode/
+
+# Data and Results (Ignored to prevent accidental pushes of raw/large data)
+# Adjust these rules if you intend to upload specific data subsets
+*.fasta
+*.fastq
+*.fastq.gz
+*.sam
+*.bam
+*.vcf
+*.csv
+*.tsv
+*.treefile
+*.log
+*.mldist
+*.bionj
+*.iqtree
+*.contree
+*.png
+*.jpg
+*.pdf
