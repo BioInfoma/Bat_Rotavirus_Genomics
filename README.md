@@ -34,7 +34,7 @@ The scripts for the downstream characterisation, phylogenetic analysis, and codo
 To run the phylogenetic pipeline, ensure the following tools are installed:
 - [MAFFT](https://mafft.cbrc.jp/alignment/software/) (v7.x)
 - [AliView](https://ormbunkar.se/aliview/) (for manual alignment inspection/trimming)
-- [BMGE](https://pasteur.fr/en/software/bmge) (Block Mapping and Gathering with Entropy)
+- [BMGE] (Block Mapping and Gathering with Entropy)
 - [IQ-TREE](http://www.iqtree.org/) (v2.x)
 - **R** (>= 4.0.0) with packages: `ggtree`, `ggplot2`, `seqinr`, etc. (Check individual scripts for specific library requirements).
 - **Python** (>= 3.x) with `Biopython`.
